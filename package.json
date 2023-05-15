@@ -1,0 +1,23 @@
+{
+  "name": "argos-subfolder-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsfez/argos-subfolder-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsfez/argos-subfolder-example/issues"
+  },
+  "homepage": "https://github.com/jsfez/argos-subfolder-example#readme",
+  "devDependencies": {
+    "@argos-ci/cli": "^0.4.4"
+  }
+}
